@@ -8,7 +8,7 @@ function App() {
     <div>
       <div className="bg-red-100">
         
-        <div className="px-8 py-12">
+        <div className="px-8 py-12 max-w-md mx-auto">
         <img className="h-10" src={logo} alt="Workcation" />
         <img className="mt-6 rounded-lg shadow-xl" src={beachwork} alt="Woman workcationing on the beach" />
         <h1 className="mt-6 text-2x1 font-bold text-gray-900">You can work from anywhere. <span className="text-indigo-500"> Take advantage of it. </span></h1>
